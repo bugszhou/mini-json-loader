@@ -1,6 +1,6 @@
 {
   "name": "mini-json-loader",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "小程序解析json",
   "main": "lib/index.js",
   "scripts": {
