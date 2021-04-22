@@ -1,0 +1,26 @@
+{
+  "name": "mini-json-loader",
+  "version": "1.0.0",
+  "description": "小程序解析json",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/mini-json-loader.git"
+  },
+  "author": {
+    "name": "bugszhou"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/mini-json-loader/issues"
+  },
+  "homepage": "https://github.com/bugszhou/mini-json-loader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "recursive-iterator": "^3.3.0",
+    "schema-utils": "^3.0.0"
+  }
+}
